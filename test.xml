@@ -1,0 +1,14 @@
+<comedor>
+    <fabricante>Ipiña Altzariak</fabricante>
+    <mesa>
+        <precio>€400</precio>
+    </mesa>
+    <silla>
+        <cantidad>2</cantidad>
+        <calidad>excelente</calidad>
+        <cojin>
+            <color>azul</color>
+        </cojin>
+        <precio>€200</precio>
+    </silla>
+</comedor>
